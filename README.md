@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vbgamer
-- 👀 I’m interested in coding and gaming
+- 👋 Hi, I’m Vedant Ramesh Bhosale
+- 👀 I’m interested in Data-Science & AI
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on local platform
 - 📫 How to reach me bhosalevedant333@gmail.com
